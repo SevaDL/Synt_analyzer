@@ -1,0 +1,13 @@
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\bin\Debug\netcoreapp3.1\Synt_analyzer.exe
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\bin\Debug\netcoreapp3.1\Synt_analyzer.deps.json
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\bin\Debug\netcoreapp3.1\Synt_analyzer.runtimeconfig.json
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\bin\Debug\netcoreapp3.1\Synt_analyzer.runtimeconfig.dev.json
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\bin\Debug\netcoreapp3.1\Synt_analyzer.dll
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\bin\Debug\netcoreapp3.1\Synt_analyzer.pdb
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.csprojAssemblyReference.cache
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.AssemblyInfoInputs.cache
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.AssemblyInfo.cs
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.csproj.CoreCompileInputs.cache
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.dll
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.pdb
+C:\Users\SevaDL\source\repos\Synt_analyzer\Synt_analyzer\obj\Debug\netcoreapp3.1\Synt_analyzer.genruntimeconfig.cache
